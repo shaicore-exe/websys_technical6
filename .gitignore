@@ -1,0 +1,16 @@
+/vendor
+/.env
+/public/build
+/storage/*.key
+/storage/framework/cache/data
+/storage/framework/sessions
+/storage/framework/testing
+/storage/framework/views
+/bootstrap/cache/*.php
+/.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+auth.json
+/.fleet
+/.idea
+/.vscode
